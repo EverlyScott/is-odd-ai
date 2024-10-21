@@ -75,5 +75,5 @@ async function isEven(number) {
     }
 }
 
-module.exports = isOdd;
+module.exports = { isOdd, isEven };
 
